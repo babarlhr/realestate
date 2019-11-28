@@ -19,10 +19,8 @@
       - Integration with Odoo Website
       - Comprehensive Reporting
       """,
-    'author':'ITSYS CORPORATION, Fatma Yousef',
-    'price':500,
-    'currency':'EUR',
-    'website':'https://www.it-syscorp.com',
+    'author':'Zero Systems',
+    'website':'https://www.erpzero.com',
     'depends':['base','account_voucher','website_sale'],
     'data':[
         'security/real_estate_security.xml',
@@ -91,4 +89,3 @@
     'application':True,
     'qweb': ['static/src/xml/*.xml'],
 }
-# AIzaSyAu47j0jBPU_4FmzkjA3xc_EKoOISrAJpI
